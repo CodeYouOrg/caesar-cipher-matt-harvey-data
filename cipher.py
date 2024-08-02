@@ -2,7 +2,7 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
 shift = input("Please enter the number of places to shift value: ")
 
-coded = 'zebras are neat!'
+coded = input("Please type the sentence you would like to encrypt: ")
 
 sentence = ''
 
